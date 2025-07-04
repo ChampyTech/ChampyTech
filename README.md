@@ -1,10 +1,16 @@
-## Hi there 👋
+## 👨‍💻 About me
+Passionate about reading, coding, and using my skills to help others online. I'm always looking for better ways to learn, grow, and share value through content creation.
+
+## 🔨 Languages I use
+![Languages I use](https://skillicons.dev/icons?i=html,css,js,c,nodejs)
+
+## ⭐ Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=ChampyTech&theme=dark&border_radius=10&exclude_days=Sun)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChampyTech&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**ChampyTech/ChampyTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
