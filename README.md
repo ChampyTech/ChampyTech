@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile! I'm passionate about reading, coding, and using my skills to help others online. I'm always looking for better ways to learn, grow, and share value through content creation.
 
-## 🔨 Languages I use
-![Languages I use](https://skillicons.dev/icons?i=html,css,js,c,nodejs,python)
+## 🔨 Languages and Tools I use
+![Languages I use](https://skillicons.dev/icons?i=html,css,js,c,nodejs,python,vscode,github)
 
 ## 📊 GitHub Stats
 
