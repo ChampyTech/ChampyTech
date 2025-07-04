@@ -1,13 +1,21 @@
-## 👨‍💻 About me
-Passionate about reading, coding, and using my skills to help others online. I'm always looking for better ways to learn, grow, and share value through content creation.
+# 👋 Hi, I'm ChampyTech!
+
+Welcome to my GitHub profile! I'm passionate about reading, coding, and using my skills to help others online. I'm always looking for better ways to learn, grow, and share value through content creation.
 
 ## 🔨 Languages I use
-![Languages I use](https://skillicons.dev/icons?i=html,css,js,c,nodejs)
+![Languages I use](https://skillicons.dev/icons?i=html,css,js,c,nodejs,python)
 
-## ⭐ Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=ChampyTech&theme=dark&border_radius=10&exclude_days=Sun)](https://git.io/streak-stats)
+## 📊 GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChampyTech&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChampyTech&show_icons=true&hide_title=true&theme=github_dark" alt="ChampyTech's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChampyTech&theme=github-dark&hide_border=true" alt="ChampyTech's GitHub streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChampyTech&layout=compact&theme=github_dark" alt="Top languages" />
+</p>
 
 <!--
 Here are some ideas to get you started:
