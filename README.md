@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about reading, coding, and using my skills to help others online. I'm always looking for better ways to learn, grow, and share value through content creation.
 
-## 🔨 Languages & Tools
+## 🔨 My Languages & Tools
 ![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about reading, coding, and using my
 ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChampyTech&show_icons=true&hide_title=true&theme=github_dark" alt="ChampyTech's GitHub stats">
