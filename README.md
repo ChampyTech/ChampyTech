@@ -49,6 +49,7 @@
   <img alt="Traveling" src="https://img.shields.io/badge/Traveling-580d76">
   <img alt="Minimalism" src="https://img.shields.io/badge/Minimalism-4076c9">
   <img alt="Psychology" src="https://img.shields.io/badge/Psychology-c9e51f">
+  <img alt="Music" src="https://img.shields.io/badge/Music-5db6a2">
 </p>
 
 <h2>📁 Projects I'm working on</h2>
