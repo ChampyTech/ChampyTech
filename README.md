@@ -53,6 +53,9 @@
   <img alt="Contributing on GitHub" src="https://img.shields.io/badge/Contributing%20on%20GitHub-a0377c">
   <img alt="Podcasts" src="https://img.shields.io/badge/Podcasts-1e2610">
   <img alt="Audiobooks" src="https://img.shields.io/badge/Audiobooks-162888">
+  <img alt="Experimenting with tech" src="https://img.shields.io/badge/Experimenting%20with%20tech-7c8418">
+  <img alt="Water" src="https://img.shields.io/badge/Water-80cfef">
+  <img alt="Mountains" src="https://img.shields.io/badge/Mountains-27ac5a">
 </p>
 
 <h2>📁 Projects I'm working on</h2>
