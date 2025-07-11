@@ -50,6 +50,9 @@
   <img alt="Minimalism" src="https://img.shields.io/badge/Minimalism-4076c9">
   <img alt="Psychology" src="https://img.shields.io/badge/Psychology-c9e51f">
   <img alt="Music" src="https://img.shields.io/badge/Music-5db6a2">
+  <img alt="Contributing on GitHub" src="https://img.shields.io/badge/Contributing%20on%20GitHub-a0377c">
+  <img alt="Podcasts" src="https://img.shields.io/badge/Podcasts-1e2610">
+  <img alt="Audiobooks" src="https://img.shields.io/badge/Audiobooks-162888">
 </p>
 
 <h2>📁 Projects I'm working on</h2>
