@@ -60,50 +60,7 @@
 </p>
 
 <h2>📁 Projects I'm working on</h2>
-<table>
-  <tr align="center">
-    <th>Projects</th>
-    <th>Forks</th>
-    <th>Stars</th>
-    <th>Issues</th>
-    <th>Pull requests</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ChampyTech/diorandom">DioRandom</a></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/ChampyTech/diorandom?style=flat"></td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/ChampyTech/diorandom?style=flat"></td>
-    <td><img alt="Issues" src="https://img.shields.io/github/issues/ChampyTech/diorandom?style=flat"></td>
-    <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/diorandom?style=flat"></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ChampyTech/small-html-projects">Small HTML Projects</a></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/ChampyTech/small-html-projects?style=flat"></td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/ChampyTech/small-html-projects?style=flat"></td>
-    <td><img alt="Issues" src="https://img.shields.io/github/issues/ChampyTech/small-html-projects?style=flat"></td>
-    <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/small-html-projects?style=flat"></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ChampyTech/random-password-generator">Random Password Generator</a></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/ChampyTech/random-password-generator?style=flat"></td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/ChampyTech/random-password-generator?style=flat"></td>
-    <td><img alt="Issues" src="https://img.shields.io/github/issues/ChampyTech/random-password-generator?style=flat"></td>
-    <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/random-password-generator?style=flat"></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ChampyTech/useful-websites">A Curated List of Useful Websites</a></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/ChampyTech/useful-websites?style=flat"></td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/ChampyTech/useful-websites?style=flat"></td>
-    <td><img alt="Issues" src="https://img.shields.io/github/issues/ChampyTech/useful-websites?style=flat"></td>
-    <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/useful-websites?style=flat"></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ChampyTech/useful-apps">A Curated List of Useful Apps</a></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/ChampyTech/useful-apps?style=flat"></td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/ChampyTech/useful-apps?style=flat"></td>
-    <td><img alt="Issues" src="https://img.shields.io/github/issues/ChampyTech/useful-apps?style=flat"></td>
-    <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/useful-apps?style=flat"></td>
-  </tr>
-</table>
+<p>You can see the dashboard (automatically updated) for all my projects <a href="PROJECT_DASHBOARD.md" target="_blank">here</a>.</p>
 
 <h2>📊 My GitHub stats</h2>
 
