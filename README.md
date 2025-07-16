@@ -115,7 +115,7 @@
 <h2>📊 My GitHub stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChampyTech&show_icons=true&hide_title=true&theme=github_dark" alt="ChampyTech's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChampyTech&show_icons=true&theme=github_dark" alt="ChampyTech's GitHub stats">
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ChampyTech&theme=github-dark&hide_border=true" alt="ChampyTech's GitHub streak">
