@@ -110,6 +110,13 @@
     <td><img alt="Issues" src="https://img.shields.io/github/issues/ChampyTech/windows-cmd-simulator?style=flat"></td>
     <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/windows-cmd-simulator?style=flat"></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/ChampyTech/simple-javascript-tools">Simple JavaScript Tools</a></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/ChampyTech/simple-javascript-tools?style=flat"></td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/ChampyTech/simple-javascript-tools?style=flat"></td>
+    <td><img alt="Issues" src="https://img.shields.io/github/issues/ChampyTech/simple-javascript-tools?style=flat"></td>
+    <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/simple-javascript-tools?style=flat"></td>
+  </tr>
 </table>
 
 <h2>📊 My GitHub stats</h2>
