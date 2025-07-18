@@ -57,6 +57,8 @@
   <img alt="Experimenting with tech" src="https://img.shields.io/badge/Experimenting%20with%20tech-7c8418">
   <img alt="Water" src="https://img.shields.io/badge/Water-80cfef">
   <img alt="Mountains" src="https://img.shields.io/badge/Mountains-27ac5a">
+  <img alt="Walking" src="https://img.shields.io/badge/Walking-721f02">
+  <img alt="AI" src="https://img.shields.io/badge/AI-7f7715">
 </p>
 
 <h2>📁 Projects I'm working on</h2>
