@@ -41,24 +41,24 @@
   <img alt="Winter" src="https://img.shields.io/badge/Winter-f4f2e2">
   <img alt="Snow" src="https://img.shields.io/badge/Snow-bffdd0">
   <img alt="Organization" src="https://img.shields.io/badge/Organization-b03b25">
+  <img alt="Water" src="https://img.shields.io/badge/Water-80cfef">
   <img alt="Hanging out with friends" src="https://img.shields.io/badge/Hanging%20out%20with%20friends-205540">
   <img alt="Physics" src="https://img.shields.io/badge/Physics-c25d86">
+  <img alt="Walking" src="https://img.shields.io/badge/Walking-721f02">
+  <img alt="AI" src="https://img.shields.io/badge/AI-7f7715">
   <img alt="Searching for remote locations on Google Maps" src="https://img.shields.io/badge/Searching%20for%20remote%20locations%20on%20Google%20Maps-626123">
   <img alt="Making quizzes on Sporcle" src="https://img.shields.io/badge/Making%20quizzes%20on%20Sporcle-acdbc9">
   <img alt="Rubik's Cube" src="https://img.shields.io/badge/Rubik's%20Cube-bb626b">
+  <img alt="Music" src="https://img.shields.io/badge/Music-5db6a2">
   <img alt="Personal growth" src="https://img.shields.io/badge/Personal%20growth-f1830f">
   <img alt="Traveling" src="https://img.shields.io/badge/Traveling-580d76">
   <img alt="Minimalism" src="https://img.shields.io/badge/Minimalism-4076c9">
   <img alt="Psychology" src="https://img.shields.io/badge/Psychology-c9e51f">
-  <img alt="Music" src="https://img.shields.io/badge/Music-5db6a2">
   <img alt="Contributing on GitHub" src="https://img.shields.io/badge/Contributing%20on%20GitHub-a0377c">
   <img alt="Podcasts" src="https://img.shields.io/badge/Podcasts-1e2610">
   <img alt="Audiobooks" src="https://img.shields.io/badge/Audiobooks-162888">
   <img alt="Experimenting with tech" src="https://img.shields.io/badge/Experimenting%20with%20tech-7c8418">
-  <img alt="Water" src="https://img.shields.io/badge/Water-80cfef">
   <img alt="Mountains" src="https://img.shields.io/badge/Mountains-27ac5a">
-  <img alt="Walking" src="https://img.shields.io/badge/Walking-721f02">
-  <img alt="AI" src="https://img.shields.io/badge/AI-7f7715">
 </p>
 
 <h2>📁 Projects I'm working on</h2>
