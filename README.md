@@ -139,14 +139,11 @@
 <h2>📊 My GitHub stats</h2>
 
 <p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChampyTech&theme=github_dark" alt="ChampyTech's GitHub stats">
+</p>
+<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChampyTech&theme=github_dark" alt="ChampyTech's GitHub stats">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChampyTech&theme=github_dark" alt="Top languages">
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChampyTech&theme=github-dark&hide_border=true" alt="ChampyTech's GitHub streak">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChampyTech&layout=compact&theme=github_dark" alt="Top languages">
 </p>
 
 <!--
