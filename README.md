@@ -100,14 +100,14 @@
     <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/useful-websites?style=flat"></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/ChampyTech/useful-apps">A Curated List of Useful Public APIs</a></td>
+    <td><a href="https://github.com/ChampyTech/useful-public-apis">A Curated List of Useful Public APIs</a></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/ChampyTech/useful-public-apis?style=flat"></td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/ChampyTech/useful-public-apis?style=flat"></td>
     <td><img alt="Issues" src="https://img.shields.io/github/issues/ChampyTech/useful-public-apis?style=flat"></td>
     <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/useful-public-apis?style=flat"></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/ChampyTech/useful-apps">A Curated List of Useful Checklists</a></td>
+    <td><a href="https://github.com/ChampyTech/useful-checklists">A Curated List of Useful Checklists</a></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/ChampyTech/useful-checklists?style=flat"></td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/ChampyTech/useful-checklists?style=flat"></td>
     <td><img alt="Issues" src="https://img.shields.io/github/issues/ChampyTech/useful-checklists?style=flat"></td>
