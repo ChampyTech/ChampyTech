@@ -60,6 +60,9 @@
   <img alt="Audiobooks" src="https://img.shields.io/badge/Audiobooks-162888">
   <img alt="Experimenting with tech" src="https://img.shields.io/badge/Experimenting%20with%20tech-7c8418">
   <img alt="Mountains" src="https://img.shields.io/badge/Mountains-27ac5a">
+  <img alt="Productivity" src="https://img.shields.io/badge/Productivity-271747">
+  <img alt="Health and wellness" src="https://img.shields.io/badge/Health and wellness-635f1c">
+  <img alt="My family" src="https://img.shields.io/badge/My%20family-f5f8ef">
 </p>
 
 <h2>📁 Projects I'm working on</h2>
