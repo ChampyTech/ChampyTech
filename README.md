@@ -63,6 +63,7 @@
   <img alt="Productivity" src="https://img.shields.io/badge/Productivity-271747">
   <img alt="Health and wellness" src="https://img.shields.io/badge/Health and wellness-635f1c">
   <img alt="My family" src="https://img.shields.io/badge/My%20family-f5f8ef">
+  <img alt="Contributing to OSM" src="https://img.shields.io/badge/Contributing%20to%20OSM-ffd028">
 </p>
 
 <h2>📁 Projects I'm working on</h2>
