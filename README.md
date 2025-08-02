@@ -1,7 +1,7 @@
 <h1>👋 Hi, I'm ChampyTech!</h1>
 <p>Welcome to my GitHub profile! I'm passionate about reading, coding, and using my skills to help others online. I'm always looking for better ways to learn, grow, and share value through content creation.</p>
 
-<h2>🔨 Languages and tools I use</h2>
+<h3>🔨 Languages and tools I use</h3>
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white">
@@ -22,7 +22,7 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
 </p>
 
-<h2>👍 What I like</h2>
+<h3>👍 What I like</h3>
 <p>
   <img alt="Eating" src="https://img.shields.io/badge/Eating-2f88ff">
   <img alt="Maths" src="https://img.shields.io/badge/Maths-091504">
@@ -66,7 +66,7 @@
   <img alt="Contributing to OSM" src="https://img.shields.io/badge/Contributing%20to%20OSM-ffd028">
 </p>
 
-<h2>📁 Projects I'm working on</h2>
+<h3>📁 Projects I'm working on</h3>
 <table>
   <tr align="center">
     <th>Projects</th>
@@ -161,7 +161,7 @@
   </tr>
 </table>
 
-<h2>📊 My GitHub stats</h2>
+<h3>📊 My GitHub stats</h3>
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChampyTech&theme=github_dark" alt="ChampyTech's GitHub stats">
