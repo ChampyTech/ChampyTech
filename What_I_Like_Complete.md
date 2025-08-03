@@ -40,4 +40,5 @@
   <img alt="Health and wellness" src="https://img.shields.io/badge/Health and wellness-635f1c">
   <img alt="My family" src="https://img.shields.io/badge/My%20family-f5f8ef">
   <img alt="Contributing to OSM" src="https://img.shields.io/badge/Contributing%20to%20OSM-ffd028">
+  <img alt="Creating projects on GitHub" src="https://img.shields.io/badge/Creating%20projects%20on%20GitHub-02A66F">
 </p>
