@@ -135,6 +135,13 @@
     <td><img alt="Issues" src="https://img.shields.io/github/issues/ChampyTech/github-profile-management?style=flat"></td>
     <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/github-profile-management?style=flat"></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/ChampyTech/tech-acronyms">Tech Acronyms</a></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/ChampyTech/tech-acronyms?style=flat"></td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/ChampyTech/tech-acronyms?style=flat"></td>
+    <td><img alt="Issues" src="https://img.shields.io/github/issues/ChampyTech/tech-acronyms?style=flat"></td>
+    <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/tech-acronyms?style=flat"></td>
+  </tr>
 </table>
 
 <h3>📊 My GitHub stats</h3>
