@@ -52,13 +52,6 @@
     <th>Pull requests</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/ChampyTech/diorandom">DioRandom</a></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/ChampyTech/diorandom?style=flat"></td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/ChampyTech/diorandom?style=flat"></td>
-    <td><img alt="Issues" src="https://img.shields.io/github/issues/ChampyTech/diorandom?style=flat"></td>
-    <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/diorandom?style=flat"></td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/ChampyTech/small-html-projects">Small HTML Projects</a></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/ChampyTech/small-html-projects?style=flat"></td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/ChampyTech/small-html-projects?style=flat"></td>
