@@ -42,7 +42,7 @@
   <img alt="Psychology" src="https://img.shields.io/badge/Psychology-c9e51f">
 </p>
 
-<h3>📁 Projects I'm working on</h3>
+<h3>📁 Some projects I've created</h3>
 <table>
   <tr align="center">
     <th>Projects</th>
@@ -50,27 +50,6 @@
     <th>Stars</th>
     <th>Issues</th>
     <th>Pull requests</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ChampyTech/small-html-projects">Small HTML Projects</a></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/ChampyTech/small-html-projects?style=flat"></td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/ChampyTech/small-html-projects?style=flat"></td>
-    <td><img alt="Issues" src="https://img.shields.io/github/issues/ChampyTech/small-html-projects?style=flat"></td>
-    <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/small-html-projects?style=flat"></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ChampyTech/random-password-generator">Random Password Generator</a></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/ChampyTech/random-password-generator?style=flat"></td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/ChampyTech/random-password-generator?style=flat"></td>
-    <td><img alt="Issues" src="https://img.shields.io/github/issues/ChampyTech/random-password-generator?style=flat"></td>
-    <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/random-password-generator?style=flat"></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ChampyTech/useful-websites">A Curated List of Useful Websites</a></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/ChampyTech/useful-websites?style=flat"></td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/ChampyTech/useful-websites?style=flat"></td>
-    <td><img alt="Issues" src="https://img.shields.io/github/issues/ChampyTech/useful-websites?style=flat"></td>
-    <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/useful-websites?style=flat"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/ChampyTech/useless-funny-websites">A Curated List of Useless but Funny Websites</a></td>
@@ -94,6 +73,13 @@
     <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/useful-checklists?style=flat"></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/ChampyTech/useful-websites">A Curated List of Useful Websites</a></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/ChampyTech/useful-websites?style=flat"></td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/ChampyTech/useful-websites?style=flat"></td>
+    <td><img alt="Issues" src="https://img.shields.io/github/issues/ChampyTech/useful-websites?style=flat"></td>
+    <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/useful-websites?style=flat"></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/ChampyTech/useful-apps">A Curated List of Useful Apps</a></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/ChampyTech/useful-apps?style=flat"></td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/ChampyTech/useful-apps?style=flat"></td>
@@ -106,27 +92,6 @@
     <td><img alt="Stars" src="https://img.shields.io/github/stars/ChampyTech/windows-cmd-simulator?style=flat"></td>
     <td><img alt="Issues" src="https://img.shields.io/github/issues/ChampyTech/windows-cmd-simulator?style=flat"></td>
     <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/windows-cmd-simulator?style=flat"></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ChampyTech/simple-javascript-tools">Simple JavaScript Tools</a></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/ChampyTech/simple-javascript-tools?style=flat"></td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/ChampyTech/simple-javascript-tools?style=flat"></td>
-    <td><img alt="Issues" src="https://img.shields.io/github/issues/ChampyTech/simple-javascript-tools?style=flat"></td>
-    <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/simple-javascript-tools?style=flat"></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ChampyTech/github-repo-management">GitHub Repo Management</a></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/ChampyTech/github-repo-management?style=flat"></td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/ChampyTech/github-repo-management?style=flat"></td>
-    <td><img alt="Issues" src="https://img.shields.io/github/issues/ChampyTech/github-repo-management?style=flat"></td>
-    <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/github-repo-management?style=flat"></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ChampyTech/github-profile-management">GitHub Profile Management</a></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/ChampyTech/github-profile-management?style=flat"></td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/ChampyTech/github-profile-management?style=flat"></td>
-    <td><img alt="Issues" src="https://img.shields.io/github/issues/ChampyTech/github-profile-management?style=flat"></td>
-    <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/github-profile-management?style=flat"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/ChampyTech/tech-acronyms">Tech Acronyms</a></td>
