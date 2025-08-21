@@ -52,13 +52,6 @@
     <th>Pull requests</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/ChampyTech/useless-funny-websites">A Curated List of Useless but Funny Websites</a></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/ChampyTech/useless-funny-websites?style=flat"></td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/ChampyTech/useless-funny-websites?style=flat"></td>
-    <td><img alt="Issues" src="https://img.shields.io/github/issues/ChampyTech/useless-funny-websites?style=flat"></td>
-    <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/useless-funny-websites?style=flat"></td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/ChampyTech/useful-free-apis">A Curated List of Useful Free APIs</a></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/ChampyTech/useful-free-apis?style=flat"></td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/ChampyTech/useful-free-apis?style=flat"></td>
