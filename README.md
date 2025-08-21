@@ -59,11 +59,11 @@
     <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/useless-funny-websites?style=flat"></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/ChampyTech/useful-public-apis">A Curated List of Useful Public APIs</a></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/ChampyTech/useful-public-apis?style=flat"></td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/ChampyTech/useful-public-apis?style=flat"></td>
-    <td><img alt="Issues" src="https://img.shields.io/github/issues/ChampyTech/useful-public-apis?style=flat"></td>
-    <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/useful-public-apis?style=flat"></td>
+    <td><a href="https://github.com/ChampyTech/useful-free-apis">A Curated List of Useful Free APIs</a></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/ChampyTech/useful-free-apis?style=flat"></td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/ChampyTech/useful-free-apis?style=flat"></td>
+    <td><img alt="Issues" src="https://img.shields.io/github/issues/ChampyTech/useful-free-apis?style=flat"></td>
+    <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/useful-free-apis?style=flat"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/ChampyTech/useful-checklists">A Curated List of Useful Checklists</a></td>
