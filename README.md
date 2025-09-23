@@ -1,7 +1,9 @@
 <h1>👋 Hi, I'm ChampyTech!</h1>
+
 <p>Welcome to my GitHub profile! I'm passionate about reading, coding, and using my skills to help others online. I'm always looking for better ways to learn, grow, and share value through content creation.</p>
 
 <h3>🔨 Languages and tools I use</h3>
+
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white">
@@ -23,6 +25,7 @@
 </p>
 
 <h3>👍 What I like</h3>
+
 <p>
   <img alt="Eating" src="https://img.shields.io/badge/Eating-2f88ff">
   <img alt="Maths" src="https://img.shields.io/badge/Maths-091504">
@@ -43,6 +46,7 @@
 </p>
 
 <h3>📁 Some projects I've created</h3>
+
 <table>
   <tr>
     <td width="50%">
