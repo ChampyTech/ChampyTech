@@ -44,54 +44,35 @@
 
 <h3>📁 Some projects I've created</h3>
 <table>
-  <tr align="center">
-    <th>Projects</th>
-    <th>Forks</th>
-    <th>Stars</th>
-    <th>Issues</th>
-    <th>Pull requests</th>
+  <tr>
+    <td width="50%">
+      <p><b>📝 <a href="https://github.com/ChampyTech/useful-free-apis">A Curated List of Useful Free APIs</a></b></p>
+      <p>A curated list of free and useful public APIs for developers, students, and curious minds.</p>
+    </td>
+    <td width="50%">
+      <p><b>📝 <a href="https://github.com/ChampyTech/useful-checklists">A Curated List of Useful Checklists</a></b></p>
+      <p>A curated list of useful checklists for everyday life, productivity, travel, health, and more.</p>
+    </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/ChampyTech/useful-free-apis">A Curated List of Useful Free APIs</a></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/ChampyTech/useful-free-apis?style=flat"></td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/ChampyTech/useful-free-apis?style=flat"></td>
-    <td><img alt="Issues" src="https://img.shields.io/github/issues/ChampyTech/useful-free-apis?style=flat"></td>
-    <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/useful-free-apis?style=flat"></td>
+    <td width="50%">
+      <p><b>📝 <a href="https://github.com/ChampyTech/useful-websites">A Curated List of Useful Websites</a></b></p>
+      <p>A curated list of useful websites you can use directly from your browser: no downloads, no installs, just click and go.</p>
+    </td>
+    <td width="50%">
+      <p><b>📝 <a href="https://github.com/ChampyTech/useful-apps">A Curated List of Useful Apps</a></b></p>
+      <p>A curated list of useful applications and software you can download and install on your devices.</p>
+    </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/ChampyTech/useful-checklists">A Curated List of Useful Checklists</a></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/ChampyTech/useful-checklists?style=flat"></td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/ChampyTech/useful-checklists?style=flat"></td>
-    <td><img alt="Issues" src="https://img.shields.io/github/issues/ChampyTech/useful-checklists?style=flat"></td>
-    <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/useful-checklists?style=flat"></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ChampyTech/useful-websites">A Curated List of Useful Websites</a></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/ChampyTech/useful-websites?style=flat"></td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/ChampyTech/useful-websites?style=flat"></td>
-    <td><img alt="Issues" src="https://img.shields.io/github/issues/ChampyTech/useful-websites?style=flat"></td>
-    <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/useful-websites?style=flat"></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ChampyTech/useful-apps">A Curated List of Useful Apps</a></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/ChampyTech/useful-apps?style=flat"></td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/ChampyTech/useful-apps?style=flat"></td>
-    <td><img alt="Issues" src="https://img.shields.io/github/issues/ChampyTech/useful-apps?style=flat"></td>
-    <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/useful-apps?style=flat"></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ChampyTech/windows-cmd-simulator">Windows CMD Simulator</a></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/ChampyTech/windows-cmd-simulator?style=flat"></td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/ChampyTech/windows-cmd-simulator?style=flat"></td>
-    <td><img alt="Issues" src="https://img.shields.io/github/issues/ChampyTech/windows-cmd-simulator?style=flat"></td>
-    <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/windows-cmd-simulator?style=flat"></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ChampyTech/tech-acronyms">Tech Acronyms</a></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/ChampyTech/tech-acronyms?style=flat"></td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/ChampyTech/tech-acronyms?style=flat"></td>
-    <td><img alt="Issues" src="https://img.shields.io/github/issues/ChampyTech/tech-acronyms?style=flat"></td>
-    <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ChampyTech/tech-acronyms?style=flat"></td>
+    <td width="50%">
+      <p><b>🔥 <a href="https://github.com/ChampyTech/windows-cmd-simulator">Windows CMD Simulator</a></b></p>
+      <p>A simple Windows CMD simulator built with HTML, CSS, and JavaScript.</p>
+    </td>
+    <td width="50%">
+      <p><b>📀 <a href="https://github.com/ChampyTech/tech-acronyms">Tech Acronyms</a></b></p>
+      <p>A comprehensive list of many acronyms concerning the world of technology.</p>
+    </td>
   </tr>
 </table>
 
