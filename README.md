@@ -1,73 +1,17 @@
-<h1>👋 Hi, I'm ChampyTech!</h1>
+<h1>👋 Hi, I'm ChampyTech</h1>
 
-<p>Welcome to my GitHub profile! I'm passionate about reading, coding, and using my skills to help others online. I'm always looking for better ways to learn, grow, and share value through content creation.</p>
+<p>I'm a student who enjoys coding, building small useful tools, and creating curated resources for developers and curious minds.</p>
 
-<h3>🔨 Languages and tools I use</h3>
+<h3>📦 Projects</h3>
 
-<p>
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
-  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black">
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff">
-  <img alt="W3Schools" src="https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff">
-  <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff">
-  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white">
-  <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
-  <img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
-  <img alt="git" src="https://img.shields.io/badge/git-F05033?logo=git&logoColor=white">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
-</p>
-
-<h3>📁 Some projects I've created</h3>
-
-<table>
-  <tr>
-    <td width="50%">
-      <p><b>📝 <a href="https://github.com/ChampyTech/useful-free-apis">A Curated List of Useful Free APIs</a></b></p>
-      <p>A curated list of free and useful public APIs for developers, students, and curious minds.</p>
-    </td>
-    <td width="50%">
-      <p><b>📝 <a href="https://github.com/ChampyTech/useful-checklists">A Curated List of Useful Checklists</a></b></p>
-      <p>A curated list of useful checklists for everyday life, productivity, travel, health, and more.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <p><b>📝 <a href="https://github.com/ChampyTech/useful-websites">A Curated List of Useful Websites</a></b></p>
-      <p>A curated list of useful websites you can use directly from your browser: no downloads, no installs, just click and go.</p>
-    </td>
-    <td width="50%">
-      <p><b>📝 <a href="https://github.com/ChampyTech/useful-apps">A Curated List of Useful Apps</a></b></p>
-      <p>A curated list of useful applications and software you can download and install on your devices.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <p><b>🔥 <a href="https://github.com/ChampyTech/windows-cmd-simulator">Windows CMD Simulator</a></b></p>
-      <p>A simple Windows CMD simulator built with HTML, CSS, and JavaScript.</p>
-    </td>
-    <td width="50%">
-      <p><b>📀 <a href="https://github.com/ChampyTech/tech-acronyms">Tech Acronyms</a></b></p>
-      <p>A comprehensive list of many acronyms concerning the world of technology.</p>
-    </td>
-  </tr>
-</table>
-
-<h3>📊 My GitHub stats</h3>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChampyTech&theme=github_dark" alt="ChampyTech's GitHub stats">
-</p>
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChampyTech&theme=github_dark" alt="ChampyTech's GitHub stats">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChampyTech&theme=github_dark" alt="Top languages">
-</p>
+<ul>
+  <li><b><a href="https://github.com/ChampyTech/useful-free-apis">Useful Free APIs</a></b> – A curated list of free public APIs.</li>
+  <li><b><a href="https://github.com/ChampyTech/useful-checklists">Useful Checklists</a></b> – Practical checklists for everyday life.</li>
+  <li><b><a href="https://github.com/ChampyTech/useful-websites">Useful Websites</a></b> – Websites you can use instantly in your browser.</li>
+  <li><b><a href="https://github.com/ChampyTech/useful-apps">Useful Apps</a></b> – A curated list of useful software and applications.</li>
+  <li><b><a href="https://github.com/ChampyTech/windows-cmd-simulator">Windows CMD Simulator</a></b> – A CMD simulator built with HTML, CSS and JavaScript.</li>
+  <li><b><a href="https://github.com/ChampyTech/tech-acronyms">Tech Acronyms</a></b> – A collection of acronyms from the tech world.</li>
+</ul>
 
 <!--
 Here are some ideas to get you started:
