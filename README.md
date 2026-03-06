@@ -24,27 +24,6 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
 </p>
 
-<h3>👍 What I like</h3>
-
-<p>
-  <img alt="Eating" src="https://img.shields.io/badge/Eating-2f88ff">
-  <img alt="Maths" src="https://img.shields.io/badge/Maths-091504">
-  <img alt="Geography" src="https://img.shields.io/badge/Geography-073824">
-  <img alt="Technology" src="https://img.shields.io/badge/Technology-df47fc">
-  <img alt="Coding" src="https://img.shields.io/badge/Coding-7d1402">
-  <img alt="Quizzes" src="https://img.shields.io/badge/Quizzes-d2dc7e">
-  <img alt="Reading" src="https://img.shields.io/badge/Reading-60dce7">
-  <img alt="Helping others" src="https://img.shields.io/badge/Helping%20others-a9425b">
-  <img alt="Chess" src="https://img.shields.io/badge/Chess-5a6083">
-  <img alt="Creating videos" src="https://img.shields.io/badge/Creating%20videos-6a3d9d">
-  <img alt="Learning new things" src="https://img.shields.io/badge/Learning%20new%20things-c52026">
-  <img alt="Biking" src="https://img.shields.io/badge/Biking-e4e3c7">
-  <img alt="Music" src="https://img.shields.io/badge/Music-5db6a2">
-  <img alt="Personal growth" src="https://img.shields.io/badge/Personal%20growth-f1830f">
-  <img alt="Traveling" src="https://img.shields.io/badge/Traveling-580d76">
-  <img alt="Psychology" src="https://img.shields.io/badge/Psychology-c9e51f">
-</p>
-
 <h3>📁 Some projects I've created</h3>
 
 <table>
