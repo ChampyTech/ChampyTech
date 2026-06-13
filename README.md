@@ -2,6 +2,7 @@
 
 <p>I'm a student who enjoys coding, building small useful tools, and creating curated resources for developers and curious minds.</p>
 
+<!--
 <h3>📦 Projects</h3>
 
 <ul>
@@ -12,6 +13,7 @@
   <li><b><a href="https://github.com/ChampyTech/windows-cmd-simulator">Windows CMD Simulator</a></b> – A CMD simulator built with HTML, CSS and JavaScript.</li>
   <li><b><a href="https://github.com/ChampyTech/tech-acronyms">Tech Acronyms</a></b> – A collection of acronyms from the tech world.</li>
 </ul>
+-->
 
 <!--
 Here are some ideas to get you started:
