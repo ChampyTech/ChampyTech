@@ -2,6 +2,8 @@
 
 <p>I'm a student who enjoys coding, building small useful tools, and creating curated resources for developers and curious minds.</p>
 
+![GitHub Stats Card](https://ghstats.dev/api/card?username=ChampyTech)
+
 <!--
 <h3>📦 Projects</h3>
 
